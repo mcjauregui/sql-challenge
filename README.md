@@ -110,3 +110,25 @@ ALTER TABLE employees ADD CONSTRAINT fk_employees_emp_title_id FOREIGN KEY(emp_t
 REFERENCES titles (title_id);
 
 ***DATA ANALYSIS***
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question01.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question02.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question03.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question04.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question05.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question06_01.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question06_02.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question07_01.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question07_02.png
+
+https://github.com/mcjauregui/sql-challenge/blob/main/Question08.png
+
+
