@@ -111,24 +111,37 @@ REFERENCES titles (title_id);
 
 ***DATA ANALYSIS***  
 
+1. List the employee number, last name, first name, sex, and salary of each employee   
 ![Question 01 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question01.png)
 
+2. List the first name, last name, and hire date for the employees who were hired in 1986  
 ![Question 02 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question02.png)
 
+3. List the manager of each department along with their department number, department name,
+   employee number, last name, and first name
 ![Question 03 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question03.png)
 
+4. List the department number for each employee along with that employee’s employee number,
+   last name, first name, and department name
 ![Question 04 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question04.png)
 
-![Question 05 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question05.png)
+5. List first name, last name, and sex of each employee whose first name is Hercules and
+   whose last name begins with the letter B  
+![Question 05 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question05.png)  
 
-![Question 06 Query a](https://github.com/mcjauregui/sql-challenge/blob/main/Question06_01.png)
+6. List each employee in the Sales department, including their employee number, last name, and first name
+![Question 06 Query a](https://github.com/mcjauregui/sql-challenge/blob/main/Question06_01.png)  
 
-![Question 06 Query b](https://github.com/mcjauregui/sql-challenge/blob/main/Question06_02.png)
+![Question 06 Query b](https://github.com/mcjauregui/sql-challenge/blob/main/Question06_02.png)  
 
+7. List each employee in the Sales and Development departments, including their employee number,
+   last name, first name, and department name  
 ![Question 07 Query a](https://github.com/mcjauregui/sql-challenge/blob/main/Question07_01.png)
 
 ![Question 07 Query b](https://github.com/mcjauregui/sql-challenge/blob/main/Question07_02.png)
 
+8. List the frequency counts, in descending order, of all the employee last names
+   (that is, how many employees share each last name)  
 ![Question 08](https://github.com/mcjauregui/sql-challenge/blob/main/Question08.png)
 
 
