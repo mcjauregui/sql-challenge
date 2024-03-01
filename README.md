@@ -7,3 +7,37 @@ For this project, you’ll design the tables to hold the data from the CSV files
 SQL Database tables and relationships
 ![SQL Database](https://github.com/mcjauregui/sql-challenge/blob/main/DB_Model.png)
 
+departments
+---
+dept_no VARCHAR PK
+dept_name VARCHAR
+
+dept_emp
+---
+emp_no VARCHAR PK FK >- salaries.emp_no
+dept_no VARCHAR PK FK >- departments.dept_no
+
+dept_manager
+----
+dept_no VARCHAR FK >- departments.dept_no
+emp_no  VARCHAR FK - employees.emp_no
+
+employees
+---
+emp_no VARCHAR PK
+emp_title_id VARCHAR FK >- titles.title_id
+birth_date DATE
+first_name VARCHAR
+last_name VARCHAR
+sex VARCHAR
+hire_date DATE
+
+salaries
+---
+emp_no VARCHAR PK
+salary INT
+
+titles
+---
+title_id VARCHAR PK
+title VARCHAR
