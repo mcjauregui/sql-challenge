@@ -111,24 +111,24 @@ REFERENCES titles (title_id);
 
 ***DATA ANALYSIS***  
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question01.png
+![Question 01 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question01.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question02.png
+![Question 02 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question02.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question03.png
+![Question 03 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question03.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question04.png
+![Question 04 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question04.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question05.png
+![Question 05 Query](https://github.com/mcjauregui/sql-challenge/blob/main/Question05.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question06_01.png
+![Question 06 Query a](https://github.com/mcjauregui/sql-challenge/blob/main/Question06_01.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question06_02.png
+![Question 06 Query b](https://github.com/mcjauregui/sql-challenge/blob/main/Question06_02.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question07_01.png
+![Question 07 Query a](https://github.com/mcjauregui/sql-challenge/blob/main/Question07_01.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question07_02.png
+![Question 07 Query b](https://github.com/mcjauregui/sql-challenge/blob/main/Question07_02.png)
 
-https://github.com/mcjauregui/sql-challenge/blob/main/Question08.png
+![Question 08](https://github.com/mcjauregui/sql-challenge/blob/main/Question08.png)
 
 
