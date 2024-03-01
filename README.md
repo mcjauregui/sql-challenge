@@ -8,6 +8,7 @@ SQL Database tables and relationships
 ![SQL Database](https://github.com/mcjauregui/sql-challenge/blob/main/DB_Model.png)
 
 Specifying the following tables, rows, and relationships produced the schema query shown below:  
+  
 departments
 ---  
 dept_no VARCHAR PK  
